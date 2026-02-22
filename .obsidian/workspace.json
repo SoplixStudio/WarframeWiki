@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "index"
             }
           }
         ]
@@ -170,14 +170,18 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "publish:Publish changes...": false
+      "publish:Publish changes...": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
   "active": "050e3a0e5f71b76f",
   "lastOpenFiles": [
+    "Untitled.md",
+    "docs",
+    "docs/index.md",
     "Welcome.md",
-    "README.md",
-    "Untitled",
     "Untitled Kanban.md"
   ]
 }
